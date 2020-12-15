@@ -10,3 +10,4 @@ C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.Modelos\obj\Debug\
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml

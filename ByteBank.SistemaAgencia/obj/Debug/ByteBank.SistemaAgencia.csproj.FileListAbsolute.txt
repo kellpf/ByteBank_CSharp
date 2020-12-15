@@ -18,3 +18,4 @@ C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.SistemaAgencia\obj
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
 C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Users\kelly.figueira\source\repos\ByteBank_CSharp\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml
